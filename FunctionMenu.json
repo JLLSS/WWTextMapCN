@@ -1,0 +1,94 @@
+[
+    {
+        "Content": "共鸣者",
+        "Id": 1
+    },
+    {
+        "Content": "背包",
+        "Id": 2
+    },
+    {
+        "Content": "鸣域终端",
+        "Id": 3
+    },
+    {
+        "Content": "任务",
+        "Id": 4
+    },
+    {
+        "Content": "test/常驻玩法",
+        "Id": 5
+    },
+    {
+        "Content": "test/限时活动",
+        "Id": 6
+    },
+    {
+        "Content": "编队",
+        "Id": 7
+    },
+    {
+        "Content": "test/组队",
+        "Id": 8
+    },
+    {
+        "Content": "调谐",
+        "Id": 9
+    },
+    {
+        "Content": "联合交易所",
+        "Id": 10
+    },
+    {
+        "Content": "好友",
+        "Id": 11
+    },
+    {
+        "Content": "test/公会",
+        "Id": 12
+    },
+    {
+        "Content": "成就",
+        "Id": 13
+    },
+    {
+        "Content": "图鉴",
+        "Id": 14
+    },
+    {
+        "Content": "地图",
+        "Id": 15
+    },
+    {
+        "Content": "教程目录",
+        "Id": 16
+    },
+    {
+        "Content": "拾音辑录",
+        "Id": 17
+    },
+    {
+        "Content": "探索工具",
+        "Id": 18
+    },
+    {
+        "Content": "反馈",
+        "Id": 19
+    },
+    {
+        "Content": "势力",
+        "Id": 20
+    },
+    {
+        "Content": "变星笺证",
+        "Id": 21
+    },
+    {
+        "Content": "数据坞",
+        "Id": 22
+    },
+    {
+        "Content": "万物图鉴",
+        "Id": 23
+    }
+]
