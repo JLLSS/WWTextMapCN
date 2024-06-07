@@ -1,0 +1,18 @@
+[
+    {
+        "Content": "MonsterDisplay_1_Name",
+        "Id": 1
+    },
+    {
+        "Content": "无冠者",
+        "Id": 2
+    },
+    {
+        "Content": "MonsterDisplay_1_Introduce",
+        "Id": 3
+    },
+    {
+        "Content": "无冠者介绍",
+        "Id": 4
+    }
+]

@@ -1,0 +1,4898 @@
+[
+    {
+        "Content": "共鸣1-1",
+        "Id": 1
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 2
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 3
+    },
+    {
+        "Content": "共鸣1-2",
+        "Id": 4
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 5
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 6
+    },
+    {
+        "Content": "共鸣1-3",
+        "Id": 7
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 8
+    },
+    {
+        "Content": "<color=#ffffff>气动伤害加成提升3%。</color>",
+        "Id": 9
+    },
+    {
+        "Content": "共鸣1-4",
+        "Id": 10
+    },
+    {
+        "Content": "底色湛蓝如洗",
+        "Id": 11
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>固有技能·怀悯</color>效果提升：施放<color=#f4d582>连携技能·湛蓝礼赞</color>后，秧秧的气动伤害额外提升10%，效果持续8秒。</color>",
+        "Id": 12
+    },
+    {
+        "Content": "共鸣2-1",
+        "Id": 13
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 14
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 15
+    },
+    {
+        "Content": "共鸣2-2",
+        "Id": 16
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 17
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 18
+    },
+    {
+        "Content": "共鸣2-3",
+        "Id": 19
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 20
+    },
+    {
+        "Content": "<color=#ffffff>气动伤害加成提升3%。</color>",
+        "Id": 21
+    },
+    {
+        "Content": "共鸣2-4",
+        "Id": 22
+    },
+    {
+        "Content": "雀鸟衔枝而行",
+        "Id": 23
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>连携技能·湛蓝礼赞</color>造成的伤害提升50%，且施放<color=#f4d582>连携技能·湛蓝礼赞</color>后，秧秧将额外获得1声【流响】。</color>",
+        "Id": 24
+    },
+    {
+        "Content": "共鸣3-1",
+        "Id": 25
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 26
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 27
+    },
+    {
+        "Content": "共鸣3-2",
+        "Id": 28
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 29
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 30
+    },
+    {
+        "Content": "共鸣3-3",
+        "Id": 31
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 32
+    },
+    {
+        "Content": "<color=#ffffff>气动伤害加成提升3%。</color>",
+        "Id": 33
+    },
+    {
+        "Content": "共鸣3-4",
+        "Id": 34
+    },
+    {
+        "Content": "流息声声不绝",
+        "Id": 35
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·流风载域</color>造成的伤害提升30%，风场对周围目标的牵引效果增强。</color>",
+        "Id": 36
+    },
+    {
+        "Content": "共鸣4-1",
+        "Id": 37
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 38
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 39
+    },
+    {
+        "Content": "共鸣4-2",
+        "Id": 40
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 41
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 42
+    },
+    {
+        "Content": "共鸣4-3",
+        "Id": 43
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 44
+    },
+    {
+        "Content": "<color=#ffffff>气动伤害加成提升3%。</color>",
+        "Id": 45
+    },
+    {
+        "Content": "共鸣4-4",
+        "Id": 46
+    },
+    {
+        "Content": "请侧耳倾听",
+        "Id": 47
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>固有技能·解意</color>效果提升：施放<color=#f4d582>空中攻击·释羽</color>后，队伍中所有角色的共鸣解放伤害额外提升20%，效果持续时间延长至12秒。</color>",
+        "Id": 48
+    },
+    {
+        "Content": "共鸣5-1",
+        "Id": 49
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 50
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 51
+    },
+    {
+        "Content": "共鸣5-2",
+        "Id": 52
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 53
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 54
+    },
+    {
+        "Content": "共鸣5-3",
+        "Id": 55
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 56
+    },
+    {
+        "Content": "<color=#ffffff>气动伤害加成提升3%。</color>",
+        "Id": 57
+    },
+    {
+        "Content": "共鸣5-4",
+        "Id": 58
+    },
+    {
+        "Content": "致美好以颂歌",
+        "Id": 59
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣解放·朔风旋涌</color>造成的伤害提升20%。</color>",
+        "Id": 60
+    },
+    {
+        "Content": "共鸣6-1",
+        "Id": 61
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 62
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 63
+    },
+    {
+        "Content": "共鸣6-2",
+        "Id": 64
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 65
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 66
+    },
+    {
+        "Content": "共鸣6-3",
+        "Id": 67
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 68
+    },
+    {
+        "Content": "<color=#ffffff>气动伤害加成提升3%。</color>",
+        "Id": 69
+    },
+    {
+        "Content": "共鸣6-4",
+        "Id": 70
+    },
+    {
+        "Content": "绪风于此响彻",
+        "Id": 71
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>空中攻击·释羽</color>造成的气动伤害提升50%，若<color=#f4d582>空中攻击·释羽</color>落地后的攻击命中目标，秧秧将获取1声【流响】。</color>",
+        "Id": 72
+    },
+    {
+        "Content": "共鸣1-1",
+        "Id": 73
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 74
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 75
+    },
+    {
+        "Content": "共鸣1-2",
+        "Id": 76
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 77
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 78
+    },
+    {
+        "Content": "共鸣1-3",
+        "Id": 79
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 80
+    },
+    {
+        "Content": "<color=#ffffff>热熔伤害加成提升3%。</color>",
+        "Id": 81
+    },
+    {
+        "Content": "共鸣1-4",
+        "Id": 82
+    },
+    {
+        "Content": "剧院的英雄戏",
+        "Id": 83
+    },
+    {
+        "Content": "<color=#ffffff>触发<color=#f4d582>共鸣技能·轰轰</color>时必定造成暴击效果。</color>",
+        "Id": 84
+    },
+    {
+        "Content": "共鸣2-1",
+        "Id": 85
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 86
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 87
+    },
+    {
+        "Content": "共鸣2-2",
+        "Id": 88
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 89
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 90
+    },
+    {
+        "Content": "共鸣2-3",
+        "Id": 91
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 92
+    },
+    {
+        "Content": "<color=#ffffff>热熔伤害加成提升3%。</color>",
+        "Id": 93
+    },
+    {
+        "Content": "共鸣2-4",
+        "Id": 94
+    },
+    {
+        "Content": "大人物的招式",
+        "Id": 95
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>第4段普攻</color>或<color=#f4d582>蓄力重击</color>命中目标时，目标的热熔抗性降低15%，持续8秒。</color>",
+        "Id": 96
+    },
+    {
+        "Content": "共鸣3-1",
+        "Id": 97
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 98
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 99
+    },
+    {
+        "Content": "共鸣3-2",
+        "Id": 100
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 101
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 102
+    },
+    {
+        "Content": "共鸣3-3",
+        "Id": 103
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 104
+    },
+    {
+        "Content": "<color=#ffffff>热熔伤害加成提升3%。</color>",
+        "Id": 105
+    },
+    {
+        "Content": "共鸣3-4",
+        "Id": 106
+    },
+    {
+        "Content": "战场的枪痕",
+        "Id": 107
+    },
+    {
+        "Content": "<color=#ffffff>施放<color=#f4d582>共鸣解放·爆炸不回头</color>后，立即重置一次<color=#f4d582>共鸣技能·咻咻斗意</color>的冷却时间。</color>",
+        "Id": 108
+    },
+    {
+        "Content": "共鸣4-1",
+        "Id": 109
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 110
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 111
+    },
+    {
+        "Content": "共鸣4-2",
+        "Id": 112
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 113
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 114
+    },
+    {
+        "Content": "共鸣4-3",
+        "Id": 115
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 116
+    },
+    {
+        "Content": "<color=#ffffff>热熔伤害加成提升3%。</color>",
+        "Id": 117
+    },
+    {
+        "Content": "共鸣4-4",
+        "Id": 118
+    },
+    {
+        "Content": "晓卫的衣钵",
+        "Id": 119
+    },
+    {
+        "Content": "<color=#ffffff>施放<color=#f4d582>共鸣解放·爆炸不回头</color>期间，每击败1个目标，恢复5点共鸣解放能量，每次最多恢复20点。</color>",
+        "Id": 120
+    },
+    {
+        "Content": "共鸣5-1",
+        "Id": 121
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 122
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 123
+    },
+    {
+        "Content": "共鸣5-2",
+        "Id": 124
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 125
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 126
+    },
+    {
+        "Content": "共鸣5-3",
+        "Id": 127
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 128
+    },
+    {
+        "Content": "<color=#ffffff>热熔伤害加成提升3%。</color>",
+        "Id": 129
+    },
+    {
+        "Content": "共鸣5-4",
+        "Id": 130
+    },
+    {
+        "Content": "胜利的枪弹焰火",
+        "Id": 131
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣解放·爆炸不回头</color>对生命值低于一半的目标，伤害提升50%。</color>",
+        "Id": 132
+    },
+    {
+        "Content": "共鸣6-1",
+        "Id": 133
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 134
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 135
+    },
+    {
+        "Content": "共鸣6-2",
+        "Id": 136
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 137
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 138
+    },
+    {
+        "Content": "共鸣6-3",
+        "Id": 139
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 140
+    },
+    {
+        "Content": "<color=#ffffff>热熔伤害加成提升3%。</color>",
+        "Id": 141
+    },
+    {
+        "Content": "共鸣6-4",
+        "Id": 142
+    },
+    {
+        "Content": "剧终的回归彩蛋",
+        "Id": 143
+    },
+    {
+        "Content": "<color=#ffffff>施放<color=#f4d582>共鸣解放·爆炸不回头</color>时，炽霞获得30发【热压弹】\n<color=#f4d582>固有技能·加麻加辣</color>叠加至满层时，攻击额外提升30%。</color>",
+        "Id": 144
+    },
+    {
+        "Content": "共鸣1-1",
+        "Id": 145
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 146
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 147
+    },
+    {
+        "Content": "共鸣1-2",
+        "Id": 148
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 149
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 150
+    },
+    {
+        "Content": "共鸣1-3",
+        "Id": 151
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 152
+    },
+    {
+        "Content": "<color=#ffffff>治疗效果加成提升2.4%。</color>",
+        "Id": 153
+    },
+    {
+        "Content": "共鸣1-4",
+        "Id": 154
+    },
+    {
+        "Content": "野外考察必备",
+        "Id": 155
+    },
+    {
+        "Content": "<color=#ffffff>施放<color=#f4d582>共鸣技能·扩繁试验</color>时，恢复10点共鸣能量，每20秒可触发一次。</color>",
+        "Id": 156
+    },
+    {
+        "Content": "共鸣2-1",
+        "Id": 157
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 158
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 159
+    },
+    {
+        "Content": "共鸣2-2",
+        "Id": 160
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 161
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 162
+    },
+    {
+        "Content": "共鸣2-3",
+        "Id": 163
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 164
+    },
+    {
+        "Content": "<color=#ffffff>治疗效果加成提升2.4%。</color>",
+        "Id": 165
+    },
+    {
+        "Content": "共鸣2-4",
+        "Id": 166
+    },
+    {
+        "Content": "植物样本采集",
+        "Id": 167
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>重击</color>伤害提升30%。</color>",
+        "Id": 168
+    },
+    {
+        "Content": "共鸣3-1",
+        "Id": 169
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 170
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 171
+    },
+    {
+        "Content": "共鸣3-2",
+        "Id": 172
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 173
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 174
+    },
+    {
+        "Content": "共鸣3-3",
+        "Id": 175
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 176
+    },
+    {
+        "Content": "<color=#ffffff>治疗效果加成提升2.4%。</color>",
+        "Id": 177
+    },
+    {
+        "Content": "共鸣3-4",
+        "Id": 178
+    },
+    {
+        "Content": "营养试剂配比",
+        "Id": 179
+    },
+    {
+        "Content": "<color=#ffffff>施放<color=#f4d582>共鸣解放·草木生长</color>时，重置<color=#f4d582>共鸣技能·扩繁试验</color>的冷却时间。</color>",
+        "Id": 180
+    },
+    {
+        "Content": "共鸣4-1",
+        "Id": 181
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 182
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 183
+    },
+    {
+        "Content": "共鸣4-2",
+        "Id": 184
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 185
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 186
+    },
+    {
+        "Content": "共鸣4-3",
+        "Id": 187
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 188
+    },
+    {
+        "Content": "<color=#ffffff>治疗效果加成提升2.4%。</color>",
+        "Id": 189
+    },
+    {
+        "Content": "共鸣4-4",
+        "Id": 190
+    },
+    {
+        "Content": "勇气植株再生",
+        "Id": 191
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·扩繁试验</color>命中目标时，玦园的攻击提升15%，效果持续5秒，最多可叠加2层。</color>",
+        "Id": 192
+    },
+    {
+        "Content": "共鸣5-1",
+        "Id": 193
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 194
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 195
+    },
+    {
+        "Content": "共鸣5-2",
+        "Id": 196
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 197
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 198
+    },
+    {
+        "Content": "共鸣5-3",
+        "Id": 199
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 200
+    },
+    {
+        "Content": "<color=#ffffff>治疗效果加成提升2.4%。</color>",
+        "Id": 201
+    },
+    {
+        "Content": "共鸣5-4",
+        "Id": 202
+    },
+    {
+        "Content": "继代培养挑战",
+        "Id": 203
+    },
+    {
+        "Content": "<color=#ffffff>参与协奏作用时，登场的队友攻击提升15%，持续10秒。</color>",
+        "Id": 204
+    },
+    {
+        "Content": "共鸣6-1",
+        "Id": 205
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 206
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 207
+    },
+    {
+        "Content": "共鸣6-2",
+        "Id": 208
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 209
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 210
+    },
+    {
+        "Content": "共鸣6-3",
+        "Id": 211
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 212
+    },
+    {
+        "Content": "<color=#ffffff>治疗效果加成提升2.4%。</color>",
+        "Id": 213
+    },
+    {
+        "Content": "共鸣6-4",
+        "Id": 214
+    },
+    {
+        "Content": "移栽成活百分百",
+        "Id": 215
+    },
+    {
+        "Content": "<color=#ffffff>队伍中所有角色攻击命中携带<color=#f4d582>共鸣解放·光合标记</color>的目标时，额外恢复2点共鸣能量，每1秒可触发1次。</color>",
+        "Id": 216
+    },
+    {
+        "Content": "共鸣1-1",
+        "Id": 217
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 218
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 219
+    },
+    {
+        "Content": "共鸣1-2",
+        "Id": 220
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 221
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 222
+    },
+    {
+        "Content": "共鸣1-3",
+        "Id": 223
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 224
+    },
+    {
+        "Content": "<color=#ffffff>冷凝伤害加成提升3%。</color>",
+        "Id": 225
+    },
+    {
+        "Content": "共鸣1-4",
+        "Id": 226
+    },
+    {
+        "Content": "孤身孑然",
+        "Id": 227
+    },
+    {
+        "Content": "<color=#ffffff>施放<color=#f4d582>重击·爆裂</color>后，散华自身暴击率提升15%，持续10秒。</color>",
+        "Id": 228
+    },
+    {
+        "Content": "共鸣2-1",
+        "Id": 229
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 230
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 231
+    },
+    {
+        "Content": "共鸣2-2",
+        "Id": 232
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 233
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 234
+    },
+    {
+        "Content": "共鸣2-3",
+        "Id": 235
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 236
+    },
+    {
+        "Content": "<color=#ffffff>冷凝伤害加成提升3%。</color>",
+        "Id": 237
+    },
+    {
+        "Content": "共鸣2-4",
+        "Id": 238
+    },
+    {
+        "Content": "净雪明心",
+        "Id": 239
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>重击·爆裂</color>的耐力消耗下降10点，并处于霸体状态。</color>",
+        "Id": 240
+    },
+    {
+        "Content": "共鸣3-1",
+        "Id": 241
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 242
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 243
+    },
+    {
+        "Content": "共鸣3-2",
+        "Id": 244
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 245
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 246
+    },
+    {
+        "Content": "共鸣3-3",
+        "Id": 247
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 248
+    },
+    {
+        "Content": "<color=#ffffff>冷凝伤害加成提升3%。</color>",
+        "Id": 249
+    },
+    {
+        "Content": "共鸣3-4",
+        "Id": 250
+    },
+    {
+        "Content": "异常视界",
+        "Id": 251
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·朔雪永冻</color>对生命值低于70%的目标，伤害提升35%。</color>",
+        "Id": 252
+    },
+    {
+        "Content": "共鸣4-1",
+        "Id": 253
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 254
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 255
+    },
+    {
+        "Content": "共鸣4-2",
+        "Id": 256
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 257
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 258
+    },
+    {
+        "Content": "共鸣4-3",
+        "Id": 259
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 260
+    },
+    {
+        "Content": "<color=#ffffff>冷凝伤害加成提升3%。</color>",
+        "Id": 261
+    },
+    {
+        "Content": "共鸣4-4",
+        "Id": 262
+    },
+    {
+        "Content": "冰寒彻骨",
+        "Id": 263
+    },
+    {
+        "Content": "<color=#ffffff>【冰棱】和【冰川】的爆炸命中时，会使目标的冷凝作用抗性降低15％。</color>",
+        "Id": 264
+    },
+    {
+        "Content": "共鸣5-1",
+        "Id": 265
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 266
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 267
+    },
+    {
+        "Content": "共鸣5-2",
+        "Id": 268
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 269
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 270
+    },
+    {
+        "Content": "共鸣5-3",
+        "Id": 271
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 272
+    },
+    {
+        "Content": "<color=#ffffff>冷凝伤害加成提升3%。</color>",
+        "Id": 273
+    },
+    {
+        "Content": "共鸣5-4",
+        "Id": 274
+    },
+    {
+        "Content": "颠覆无常",
+        "Id": 275
+    },
+    {
+        "Content": "<color=#ffffff>引爆【冰棱】和【冰川】时，伤害提升25%\n即使没有成功引爆，【冰棱】和【冰川】也会在消失时直接爆炸。</color>",
+        "Id": 276
+    },
+    {
+        "Content": "共鸣6-1",
+        "Id": 277
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 278
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 279
+    },
+    {
+        "Content": "共鸣6-2",
+        "Id": 280
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 281
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 282
+    },
+    {
+        "Content": "共鸣6-3",
+        "Id": 283
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 284
+    },
+    {
+        "Content": "<color=#ffffff>冷凝伤害加成提升3%。</color>",
+        "Id": 285
+    },
+    {
+        "Content": "共鸣6-4",
+        "Id": 286
+    },
+    {
+        "Content": "微光一线",
+        "Id": 287
+    },
+    {
+        "Content": "test/<color=#ffffff>施放<color=#f4d582>共鸣解放·焦瞑冻土</color>时，直接恢复10点共鸣能量\n并且5秒内的下次<color=#f4d582>重击·爆裂</color>伤害提升80%。</color>",
+        "Id": 288
+    },
+    {
+        "Content": "共鸣1-1",
+        "Id": 289
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 290
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 291
+    },
+    {
+        "Content": "共鸣1-2",
+        "Id": 292
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 293
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 294
+    },
+    {
+        "Content": "共鸣1-3",
+        "Id": 295
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 296
+    },
+    {
+        "Content": "<color=#ffffff>治疗效果加成提升2.4%。</color>",
+        "Id": 297
+    },
+    {
+        "Content": "共鸣1-4",
+        "Id": 298
+    },
+    {
+        "Content": "救急扶危之道",
+        "Id": 299
+    },
+    {
+        "Content": "<color=#ffffff>施放<color=#f4d582>共鸣技能·乍暖还寒</color>时，每消耗1点【寒意】，白莲自身恢复2.5点共鸣能量。</color>",
+        "Id": 300
+    },
+    {
+        "Content": "共鸣2-1",
+        "Id": 301
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 302
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 303
+    },
+    {
+        "Content": "共鸣2-2",
+        "Id": 304
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 305
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 306
+    },
+    {
+        "Content": "共鸣2-3",
+        "Id": 307
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 308
+    },
+    {
+        "Content": "<color=#ffffff>治疗效果加成提升2.4%。</color>",
+        "Id": 309
+    },
+    {
+        "Content": "共鸣2-4",
+        "Id": 310
+    },
+    {
+        "Content": "以守为攻之策",
+        "Id": 311
+    },
+    {
+        "Content": "<color=#ffffff>施放<color=#f4d582>共鸣技能·乍暖还寒</color>时，忧昙飘落【花瓣】上限+1\n当前角色每拾取1片【花瓣】，普攻攻速将提升8%，该效果持续8秒，最多可叠加3层。</color>",
+        "Id": 312
+    },
+    {
+        "Content": "共鸣3-1",
+        "Id": 313
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 314
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 315
+    },
+    {
+        "Content": "共鸣3-2",
+        "Id": 316
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 317
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 318
+    },
+    {
+        "Content": "共鸣3-3",
+        "Id": 319
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 320
+    },
+    {
+        "Content": "<color=#ffffff>治疗效果加成提升2.4%。</color>",
+        "Id": 321
+    },
+    {
+        "Content": "共鸣3-4",
+        "Id": 322
+    },
+    {
+        "Content": "事半功倍之效",
+        "Id": 323
+    },
+    {
+        "Content": "<color=#ffffff>施放<color=#f4d582>连携技能·切勿烦扰</color>时，生命值上限将提高15%，持续10秒。</color>",
+        "Id": 324
+    },
+    {
+        "Content": "共鸣4-1",
+        "Id": 325
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 326
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 327
+    },
+    {
+        "Content": "共鸣4-2",
+        "Id": 328
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 329
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 330
+    },
+    {
+        "Content": "共鸣4-3",
+        "Id": 331
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 332
+    },
+    {
+        "Content": "<color=#ffffff>治疗效果加成提升2.4%。</color>",
+        "Id": 333
+    },
+    {
+        "Content": "共鸣4-4",
+        "Id": 334
+    },
+    {
+        "Content": "贯始彻终之计",
+        "Id": 335
+    },
+    {
+        "Content": "<color=#ffffff>施放<color=#f4d582>共鸣解放·溯返之力</color>时，<color=#f4d582>共鸣解放·冰徊结晶</color>数量+2。</color>",
+        "Id": 336
+    },
+    {
+        "Content": "共鸣5-1",
+        "Id": 337
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 338
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 339
+    },
+    {
+        "Content": "共鸣5-2",
+        "Id": 340
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 341
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 342
+    },
+    {
+        "Content": "共鸣5-3",
+        "Id": 343
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 344
+    },
+    {
+        "Content": "<color=#ffffff>治疗效果加成提升2.4%。</color>",
+        "Id": 345
+    },
+    {
+        "Content": "共鸣5-4",
+        "Id": 346
+    },
+    {
+        "Content": "强身健体之魄",
+        "Id": 347
+    },
+    {
+        "Content": "<color=#ffffff>施放<color=#f4d582>共鸣技能·乍暖还寒</color>时，若存在4点【寒意】，则全队攻击提升10%，持续8秒。</color>",
+        "Id": 348
+    },
+    {
+        "Content": "共鸣6-1",
+        "Id": 349
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 350
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 351
+    },
+    {
+        "Content": "共鸣6-2",
+        "Id": 352
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 353
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 354
+    },
+    {
+        "Content": "共鸣6-3",
+        "Id": 355
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 356
+    },
+    {
+        "Content": "<color=#ffffff>治疗效果加成提升2.4%。</color>",
+        "Id": 357
+    },
+    {
+        "Content": "共鸣6-4",
+        "Id": 358
+    },
+    {
+        "Content": "逾距越界之怒",
+        "Id": 359
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·冰徊结晶</color>治疗量提升20%，并造成额外冷凝伤害，伤害值以白莲自身的生命值上限结算。</color>",
+        "Id": 360
+    },
+    {
+        "Content": "共鸣1-1",
+        "Id": 361
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 362
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 363
+    },
+    {
+        "Content": "共鸣1-2",
+        "Id": 364
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 365
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 366
+    },
+    {
+        "Content": "共鸣1-3",
+        "Id": 367
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 368
+    },
+    {
+        "Content": "<color=#ffffff>衍射伤害加成提升3%。</color>",
+        "Id": 369
+    },
+    {
+        "Content": "共鸣1-4",
+        "Id": 370
+    },
+    {
+        "Content": "弦久未鸣",
+        "Id": 371
+    },
+    {
+        "Content": "<color=#ffffff>施放<color=#f4d582>共鸣技能·浮声鸣尘</color>、<color=#f4d582>共鸣技能·浮声鸣尘·旋音</color>后，自身暴击率提升10%，持续7秒。</color>",
+        "Id": 372
+    },
+    {
+        "Content": "共鸣2-1",
+        "Id": 373
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 374
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 375
+    },
+    {
+        "Content": "共鸣2-2",
+        "Id": 376
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 377
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 378
+    },
+    {
+        "Content": "共鸣2-3",
+        "Id": 379
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 380
+    },
+    {
+        "Content": "<color=#ffffff>衍射伤害加成提升3%。</color>",
+        "Id": 381
+    },
+    {
+        "Content": "共鸣2-4",
+        "Id": 382
+    },
+    {
+        "Content": "初声绝尘",
+        "Id": 383
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·浮声鸣尘·回声</color>造成的伤害提升60%。</color>",
+        "Id": 384
+    },
+    {
+        "Content": "共鸣3-1",
+        "Id": 385
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 386
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 387
+    },
+    {
+        "Content": "共鸣3-2",
+        "Id": 388
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 389
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 390
+    },
+    {
+        "Content": "共鸣3-3",
+        "Id": 391
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 392
+    },
+    {
+        "Content": "<color=#ffffff>衍射伤害加成提升3%。</color>",
+        "Id": 393
+    },
+    {
+        "Content": "共鸣3-4",
+        "Id": 394
+    },
+    {
+        "Content": "微物细语",
+        "Id": 395
+    },
+    {
+        "Content": "<color=#ffffff>漂泊者的共鸣效率提升20%。</color>",
+        "Id": 396
+    },
+    {
+        "Content": "共鸣4-1",
+        "Id": 397
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 398
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 399
+    },
+    {
+        "Content": "共鸣4-2",
+        "Id": 400
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 401
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 402
+    },
+    {
+        "Content": "共鸣4-3",
+        "Id": 403
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 404
+    },
+    {
+        "Content": "<color=#ffffff>衍射伤害加成提升3%。</color>",
+        "Id": 405
+    },
+    {
+        "Content": "共鸣4-4",
+        "Id": 406
+    },
+    {
+        "Content": "众声百念",
+        "Id": 407
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·浮声鸣尘</color>以及<color=#f4d582>共鸣技能·浮声鸣尘·旋音</color>命中后，可降低目标衍射伤害抗性15%，持续8秒。</color>",
+        "Id": 408
+    },
+    {
+        "Content": "共鸣5-1",
+        "Id": 409
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 410
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 411
+    },
+    {
+        "Content": "共鸣5-2",
+        "Id": 412
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 413
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 414
+    },
+    {
+        "Content": "共鸣5-3",
+        "Id": 415
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 416
+    },
+    {
+        "Content": "<color=#ffffff>衍射伤害加成提升3%。</color>",
+        "Id": 417
+    },
+    {
+        "Content": "共鸣5-4",
+        "Id": 418
+    },
+    {
+        "Content": "聚声凝神",
+        "Id": 419
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣解放·寂鸣极异</color>造成的伤害提升30%。</color>",
+        "Id": 420
+    },
+    {
+        "Content": "共鸣6-1",
+        "Id": 421
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 422
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 423
+    },
+    {
+        "Content": "共鸣6-2",
+        "Id": 424
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 425
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 426
+    },
+    {
+        "Content": "共鸣6-3",
+        "Id": 427
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 428
+    },
+    {
+        "Content": "<color=#ffffff>衍射伤害加成提升3%。</color>",
+        "Id": 429
+    },
+    {
+        "Content": "共鸣6-4",
+        "Id": 430
+    },
+    {
+        "Content": "合鸣回响",
+        "Id": 431
+    },
+    {
+        "Content": "<color=#ffffff>施放<color=#f4d582>共鸣解放·寂鸣极异</color>后，为队伍中所有角色持续恢复生命值，每秒恢复量相当于自身攻击力的20%，持续5秒。</color>",
+        "Id": 432
+    },
+    {
+        "Content": "共鸣1-1",
+        "Id": 433
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 434
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 435
+    },
+    {
+        "Content": "共鸣1-2",
+        "Id": 436
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 437
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 438
+    },
+    {
+        "Content": "共鸣1-3",
+        "Id": 439
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 440
+    },
+    {
+        "Content": "<color=#ffffff>解离伤害加成提升3%。</color>",
+        "Id": 441
+    },
+    {
+        "Content": "共鸣1-4",
+        "Id": 442
+    },
+    {
+        "Content": "丹心本如鉴",
+        "Id": 443
+    },
+    {
+        "Content": "<color=#ffffff>使用<color=#f4d582>共鸣技能·香烬</color>的伤害提升20%。</color>",
+        "Id": 444
+    },
+    {
+        "Content": "共鸣2-1",
+        "Id": 445
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 446
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 447
+    },
+    {
+        "Content": "共鸣2-2",
+        "Id": 448
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 449
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 450
+    },
+    {
+        "Content": "共鸣2-3",
+        "Id": 451
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 452
+    },
+    {
+        "Content": "<color=#ffffff>解离伤害加成提升3%。</color>",
+        "Id": 453
+    },
+    {
+        "Content": "共鸣2-4",
+        "Id": 454
+    },
+    {
+        "Content": "明镜却蒙尘",
+        "Id": 455
+    },
+    {
+        "Content": "<color=#ffffff>使用<color=#f4d582>重击·缭乱</color>后，一次性恢复15点共鸣能量。</color>",
+        "Id": 456
+    },
+    {
+        "Content": "共鸣3-1",
+        "Id": 457
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 458
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 459
+    },
+    {
+        "Content": "共鸣3-2",
+        "Id": 460
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 461
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 462
+    },
+    {
+        "Content": "共鸣3-3",
+        "Id": 463
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 464
+    },
+    {
+        "Content": "<color=#ffffff>解离伤害加成提升3%。</color>",
+        "Id": 465
+    },
+    {
+        "Content": "共鸣3-4",
+        "Id": 466
+    },
+    {
+        "Content": "并蒂芳华不长久",
+        "Id": 467
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·朱蚀之刻</color>效果提升：额外降低目标的10%解离抗性。</color>",
+        "Id": 468
+    },
+    {
+        "Content": "共鸣4-1",
+        "Id": 469
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 470
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 471
+    },
+    {
+        "Content": "共鸣4-2",
+        "Id": 472
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 473
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 474
+    },
+    {
+        "Content": "共鸣4-3",
+        "Id": 475
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 476
+    },
+    {
+        "Content": "<color=#ffffff>解离伤害加成提升3%。</color>",
+        "Id": 477
+    },
+    {
+        "Content": "共鸣4-4",
+        "Id": 478
+    },
+    {
+        "Content": "独艳难红",
+        "Id": 479
+    },
+    {
+        "Content": "<color=#ffffff>生命值低于60%时，自身抗打断能力提升。</color>",
+        "Id": 480
+    },
+    {
+        "Content": "共鸣5-1",
+        "Id": 481
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 482
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 483
+    },
+    {
+        "Content": "共鸣5-2",
+        "Id": 484
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 485
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 486
+    },
+    {
+        "Content": "共鸣5-3",
+        "Id": 487
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 488
+    },
+    {
+        "Content": "<color=#ffffff>解离伤害加成提升3%。</color>",
+        "Id": 489
+    },
+    {
+        "Content": "共鸣5-4",
+        "Id": 490
+    },
+    {
+        "Content": "空置春秋",
+        "Id": 491
+    },
+    {
+        "Content": "<color=#ffffff>丹槿攻击持有<color=#f4d582>共鸣技能·朱蚀之刻</color>的目标时，自身的攻击提升5%，最多可叠加6层，每次受到伤害时减少1层。</color>",
+        "Id": 492
+    },
+    {
+        "Content": "共鸣6-1",
+        "Id": 493
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 494
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 495
+    },
+    {
+        "Content": "共鸣6-2",
+        "Id": 496
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 497
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 498
+    },
+    {
+        "Content": "共鸣6-3",
+        "Id": 499
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 500
+    },
+    {
+        "Content": "<color=#ffffff>解离伤害加成提升3%。</color>",
+        "Id": 501
+    },
+    {
+        "Content": "共鸣6-4",
+        "Id": 502
+    },
+    {
+        "Content": "忆落魂牵岂堪留",
+        "Id": 503
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣解放·绯红绽放</color>的伤害提升15%。\n若施放<color=#f4d582>共鸣解放·绯红绽放</color>时血量低于60%，将恢复血量至60%；\n若施放<color=#f4d582>共鸣解放·绯红绽放</color>时血量高于60%，<color=#f4d582>共鸣回路·刹那赤华</color>的增伤效果效果会强制生效。</color>",
+        "Id": 504
+    },
+    {
+        "Content": "共鸣1-1",
+        "Id": 505
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 506
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 507
+    },
+    {
+        "Content": "共鸣1-2",
+        "Id": 508
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 509
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 510
+    },
+    {
+        "Content": "共鸣1-3",
+        "Id": 511
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 512
+    },
+    {
+        "Content": "<color=#ffffff>热熔伤害加成提升3%。</color>",
+        "Id": 513
+    },
+    {
+        "Content": "共鸣1-4",
+        "Id": 514
+    },
+    {
+        "Content": "羊咩迷路了",
+        "Id": 515
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>固有技能·白咩逞强</color>的效果提升，每次施放<color=#f4d582>普攻·咩咩</color>或<color=#f4d582>共鸣技能·剪羊毛</color>，热熔伤害额外提升15%。</color>",
+        "Id": 516
+    },
+    {
+        "Content": "共鸣2-1",
+        "Id": 517
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 518
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 519
+    },
+    {
+        "Content": "共鸣2-2",
+        "Id": 520
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 521
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 522
+    },
+    {
+        "Content": "共鸣2-3",
+        "Id": 523
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 524
+    },
+    {
+        "Content": "<color=#ffffff>热熔伤害加成提升3%。</color>",
+        "Id": 525
+    },
+    {
+        "Content": "共鸣2-4",
+        "Id": 526
+    },
+    {
+        "Content": "迷雾？黑海岸！",
+        "Id": 527
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>重击·白咩·失控之炎</color>和<color=#f4d582>重击·黑咩·暴走之炎</color>的伤害提升80%。</color>",
+        "Id": 528
+    },
+    {
+        "Content": "共鸣3-1",
+        "Id": 529
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 530
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 531
+    },
+    {
+        "Content": "共鸣3-2",
+        "Id": 532
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 533
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 534
+    },
+    {
+        "Content": "共鸣3-3",
+        "Id": 535
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 536
+    },
+    {
+        "Content": "<color=#ffffff>热熔伤害加成提升3%。</color>",
+        "Id": 537
+    },
+    {
+        "Content": "共鸣3-4",
+        "Id": 538
+    },
+    {
+        "Content": "厨房？好有趣！",
+        "Id": 539
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·羊咩剪刀</color>、<color=#f4d582>共鸣技能·剪羊毛</color>和<color=#f4d582>共鸣技能·黑咩·乱剪</color>的伤害提升20%。</color>",
+        "Id": 540
+    },
+    {
+        "Content": "共鸣4-1",
+        "Id": 541
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 542
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 543
+    },
+    {
+        "Content": "共鸣4-2",
+        "Id": 544
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 545
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 546
+    },
+    {
+        "Content": "共鸣4-3",
+        "Id": 547
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 548
+    },
+    {
+        "Content": "<color=#ffffff>热熔伤害加成提升3%。</color>",
+        "Id": 549
+    },
+    {
+        "Content": "共鸣4-4",
+        "Id": 550
+    },
+    {
+        "Content": "突破！海滩小屋",
+        "Id": 551
+    },
+    {
+        "Content": "<color=#ffffff>施放<color=#f4d582>普攻·咩咩</color>或<color=#f4d582>共鸣技能·剪羊毛</color>时，安可的攻击提升20%，效果持续15秒。</color>",
+        "Id": 552
+    },
+    {
+        "Content": "共鸣5-1",
+        "Id": 553
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 554
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 555
+    },
+    {
+        "Content": "共鸣5-2",
+        "Id": 556
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 557
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 558
+    },
+    {
+        "Content": "共鸣5-3",
+        "Id": 559
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 560
+    },
+    {
+        "Content": "<color=#ffffff>热熔伤害加成提升3%。</color>",
+        "Id": 561
+    },
+    {
+        "Content": "共鸣5-4",
+        "Id": 562
+    },
+    {
+        "Content": "羊咩！拯救世界",
+        "Id": 563
+    },
+    {
+        "Content": "<color=#ffffff>携带<color=#f4d582>共鸣解放·黑咩·恶作剧</color>的目标，热熔抗性额外降低10%。</color>",
+        "Id": 564
+    },
+    {
+        "Content": "共鸣6-1",
+        "Id": 565
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 566
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 567
+    },
+    {
+        "Content": "共鸣6-2",
+        "Id": 568
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 569
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 570
+    },
+    {
+        "Content": "共鸣6-3",
+        "Id": 571
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 572
+    },
+    {
+        "Content": "<color=#ffffff>热熔伤害加成提升3%。</color>",
+        "Id": 573
+    },
+    {
+        "Content": "共鸣6-4",
+        "Id": 574
+    },
+    {
+        "Content": "数羊安眠曲",
+        "Id": 575
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣解放·羊咩大暴走</color>期间，每次造成伤害为自身叠加1层【迷失羔羊】，最多可以叠加10层，每层攻击提升4%，效果持续5秒。</color>",
+        "Id": 576
+    },
+    {
+        "Content": "共鸣1-1",
+        "Id": 577
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 578
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 579
+    },
+    {
+        "Content": "共鸣1-2",
+        "Id": 580
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 581
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 582
+    },
+    {
+        "Content": "共鸣1-3",
+        "Id": 583
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 584
+    },
+    {
+        "Content": "<color=#ffffff>防御提升3.8%。</color>",
+        "Id": 585
+    },
+    {
+        "Content": "共鸣1-4",
+        "Id": 586
+    },
+    {
+        "Content": "天受之通悟",
+        "Id": 587
+    },
+    {
+        "Content": "<color=#ffffff>桃祈的治疗效果提升35%。</color>",
+        "Id": 588
+    },
+    {
+        "Content": "共鸣2-1",
+        "Id": 589
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 590
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 591
+    },
+    {
+        "Content": "共鸣2-2",
+        "Id": 592
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 593
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 594
+    },
+    {
+        "Content": "共鸣2-3",
+        "Id": 595
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 596
+    },
+    {
+        "Content": "<color=#ffffff>防御提升3.8%。</color>",
+        "Id": 597
+    },
+    {
+        "Content": "共鸣2-4",
+        "Id": 598
+    },
+    {
+        "Content": "假泯于众人",
+        "Id": 599
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·固若城池</color>的持续时间延长至12秒，持续期间队伍中登场的角色抗打断能力提升50%。</color>",
+        "Id": 600
+    },
+    {
+        "Content": "共鸣3-1",
+        "Id": 601
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 602
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 603
+    },
+    {
+        "Content": "共鸣3-2",
+        "Id": 604
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 605
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 606
+    },
+    {
+        "Content": "共鸣3-3",
+        "Id": 607
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 608
+    },
+    {
+        "Content": "<color=#ffffff>防御提升3.8%。</color>",
+        "Id": 609
+    },
+    {
+        "Content": "共鸣3-4",
+        "Id": 610
+    },
+    {
+        "Content": "怀悠然之心",
+        "Id": 611
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>普攻·玄武守势</color>消耗耐力的速度降低，成功触发<color=#f4d582>普攻·后发制人</color>时，恢复桃祈25%生命值，每15秒可触发1次。</color>",
+        "Id": 612
+    },
+    {
+        "Content": "共鸣4-1",
+        "Id": 613
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 614
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 615
+    },
+    {
+        "Content": "共鸣4-2",
+        "Id": 616
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 617
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 618
+    },
+    {
+        "Content": "共鸣4-3",
+        "Id": 619
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 620
+    },
+    {
+        "Content": "<color=#ffffff>防御提升3.8%。</color>",
+        "Id": 621
+    },
+    {
+        "Content": "共鸣4-4",
+        "Id": 622
+    },
+    {
+        "Content": "承负重之担",
+        "Id": 623
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣解放·真武庇佑</color>的暴击率提升10%，暴击伤害提高25%。</color>",
+        "Id": 624
+    },
+    {
+        "Content": "共鸣5-1",
+        "Id": 625
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 626
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 627
+    },
+    {
+        "Content": "共鸣5-2",
+        "Id": 628
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 629
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 630
+    },
+    {
+        "Content": "共鸣5-3",
+        "Id": 631
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 632
+    },
+    {
+        "Content": "<color=#ffffff>防御提升3.8%。</color>",
+        "Id": 633
+    },
+    {
+        "Content": "共鸣5-4",
+        "Id": 634
+    },
+    {
+        "Content": "解市井民忧",
+        "Id": 635
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>重击·玄武守势</color>和<color=#f4d582>普攻·后发制人</color>的伤害提升50%，<color=#f4d582>普攻·后发制人</color>命中目标时，恢复20点共鸣能量。</color>",
+        "Id": 636
+    },
+    {
+        "Content": "共鸣6-1",
+        "Id": 637
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 638
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 639
+    },
+    {
+        "Content": "共鸣6-2",
+        "Id": 640
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 641
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 642
+    },
+    {
+        "Content": "共鸣6-3",
+        "Id": 643
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 644
+    },
+    {
+        "Content": "<color=#ffffff>防御提升3.8%。</color>",
+        "Id": 645
+    },
+    {
+        "Content": "共鸣6-4",
+        "Id": 646
+    },
+    {
+        "Content": "护城邦安危",
+        "Id": 647
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·玄武乂甲</color>持续期间，队伍中登场的角色普攻和重击的伤害提升15%。</color>",
+        "Id": 648
+    },
+    {
+        "Content": "共鸣1-1",
+        "Id": 649
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 650
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 651
+    },
+    {
+        "Content": "共鸣1-2",
+        "Id": 652
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 653
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 654
+    },
+    {
+        "Content": "共鸣1-3",
+        "Id": 655
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 656
+    },
+    {
+        "Content": "<color=#ffffff>热熔伤害加成提升3%。</color>",
+        "Id": 657
+    },
+    {
+        "Content": "共鸣1-4",
+        "Id": 658
+    },
+    {
+        "Content": "蒙尘的珠宝",
+        "Id": 659
+    },
+    {
+        "Content": "<color=#ffffff>使用声骸异能后，额外恢复10点共鸣能量，每15秒可触发1次。</color>",
+        "Id": 660
+    },
+    {
+        "Content": "共鸣2-1",
+        "Id": 661
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 662
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 663
+    },
+    {
+        "Content": "共鸣2-2",
+        "Id": 664
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 665
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 666
+    },
+    {
+        "Content": "共鸣2-3",
+        "Id": 667
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 668
+    },
+    {
+        "Content": "<color=#ffffff>热熔伤害加成提升3%。</color>",
+        "Id": 669
+    },
+    {
+        "Content": "共鸣2-4",
+        "Id": 670
+    },
+    {
+        "Content": "点燃的华服",
+        "Id": 671
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣解放·浮翼狂想</color>持续期间，队伍中登场角色施放<color=#f4d582>共鸣技能</color>时，进行协同攻击，打出2发<color=#f4d582>共鸣解放·加强音</color>，造成热熔伤害。</color>",
+        "Id": 672
+    },
+    {
+        "Content": "共鸣3-1",
+        "Id": 673
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 674
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 675
+    },
+    {
+        "Content": "共鸣3-2",
+        "Id": 676
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 677
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 678
+    },
+    {
+        "Content": "共鸣3-3",
+        "Id": 679
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 680
+    },
+    {
+        "Content": "<color=#ffffff>热熔伤害加成提升3%。</color>",
+        "Id": 681
+    },
+    {
+        "Content": "共鸣3-4",
+        "Id": 682
+    },
+    {
+        "Content": "虚浮的假象",
+        "Id": 683
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣解放·浮翼狂想</color>的持续时间延长5秒。</color>",
+        "Id": 684
+    },
+    {
+        "Content": "共鸣4-1",
+        "Id": 685
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 686
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 687
+    },
+    {
+        "Content": "共鸣4-2",
+        "Id": 688
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 689
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 690
+    },
+    {
+        "Content": "共鸣4-3",
+        "Id": 691
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 692
+    },
+    {
+        "Content": "<color=#ffffff>热熔伤害加成提升3%。</color>",
+        "Id": 693
+    },
+    {
+        "Content": "共鸣4-4",
+        "Id": 694
+    },
+    {
+        "Content": "焦灼的真实",
+        "Id": 695
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣解放·加强音</color>命中目标时，目标的热熔抗性降低15%，效果持续8秒。</color>",
+        "Id": 696
+    },
+    {
+        "Content": "共鸣5-1",
+        "Id": 697
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 698
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 699
+    },
+    {
+        "Content": "共鸣5-2",
+        "Id": 700
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 701
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 702
+    },
+    {
+        "Content": "共鸣5-3",
+        "Id": 703
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 704
+    },
+    {
+        "Content": "<color=#ffffff>热熔伤害加成提升3%。</color>",
+        "Id": 705
+    },
+    {
+        "Content": "共鸣5-4",
+        "Id": 706
+    },
+    {
+        "Content": "急促的旋律",
+        "Id": 707
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·激昂变奏</color>和<color=#f4d582>共鸣技能·龙息回旋</color>命中目标时，打出4发<color=#f4d582>共鸣解放·加强音</color>，造成热熔伤害，此次<color=#f4d582>共鸣解放·加强音</color>伤害降低50%。</color>",
+        "Id": 708
+    },
+    {
+        "Content": "共鸣6-1",
+        "Id": 709
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 710
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 711
+    },
+    {
+        "Content": "共鸣6-2",
+        "Id": 712
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 713
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 714
+    },
+    {
+        "Content": "共鸣6-3",
+        "Id": 715
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 716
+    },
+    {
+        "Content": "<color=#ffffff>热熔伤害加成提升3%。</color>",
+        "Id": 717
+    },
+    {
+        "Content": "共鸣6-4",
+        "Id": 718
+    },
+    {
+        "Content": "盛怒的红龙",
+        "Id": 719
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣解放·浮翼狂想</color>持续期间，队伍中登场角色的暴击伤害提升20%。</color>",
+        "Id": 720
+    },
+    {
+        "Content": "共鸣1-1",
+        "Id": 721
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 722
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 723
+    },
+    {
+        "Content": "共鸣1-2",
+        "Id": 724
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 725
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 726
+    },
+    {
+        "Content": "共鸣1-3",
+        "Id": 727
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 728
+    },
+    {
+        "Content": "<color=#ffffff>气动伤害加成提升3%。</color>",
+        "Id": 729
+    },
+    {
+        "Content": "共鸣1-4",
+        "Id": 730
+    },
+    {
+        "Content": "济世",
+        "Id": 731
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·枪扫风定</color>可使用次数增加1次。施放<color=#f4d582>共鸣技能·枪扫风定</color>时，消耗的【破阵值】减少15点。</color>",
+        "Id": 732
+    },
+    {
+        "Content": "共鸣2-1",
+        "Id": 733
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 734
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 735
+    },
+    {
+        "Content": "共鸣2-2",
+        "Id": 736
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 737
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 738
+    },
+    {
+        "Content": "共鸣2-3",
+        "Id": 739
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 740
+    },
+    {
+        "Content": "<color=#ffffff>气动伤害加成提升3%。</color>",
+        "Id": 741
+    },
+    {
+        "Content": "共鸣2-4",
+        "Id": 742
+    },
+    {
+        "Content": "通变",
+        "Id": 743
+    },
+    {
+        "Content": "<color=#ffffff>施放<color=#f4d582>连携技能·攻其不备</color>时，<color=#f4d582>固有技能·蕴风集流</color>的效果直接叠加至15层。</color>",
+        "Id": 744
+    },
+    {
+        "Content": "共鸣3-1",
+        "Id": 745
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 746
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 747
+    },
+    {
+        "Content": "共鸣3-2",
+        "Id": 748
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 749
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 750
+    },
+    {
+        "Content": "共鸣3-3",
+        "Id": 751
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 752
+    },
+    {
+        "Content": "<color=#ffffff>气动伤害加成提升3%。</color>",
+        "Id": 753
+    },
+    {
+        "Content": "共鸣3-4",
+        "Id": 754
+    },
+    {
+        "Content": "观势",
+        "Id": 755
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>重击</color>伤害提升20%，<color=#f4d582>重击·凌空击</color>或<color=#f4d582>重击·潜渊斩</color>命中目标时，恢复15点耐力。</color>",
+        "Id": 756
+    },
+    {
+        "Content": "共鸣4-1",
+        "Id": 757
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 758
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 759
+    },
+    {
+        "Content": "共鸣4-2",
+        "Id": 760
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 761
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 762
+    },
+    {
+        "Content": "共鸣4-3",
+        "Id": 763
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 764
+    },
+    {
+        "Content": "<color=#ffffff>气动伤害加成提升3%。</color>",
+        "Id": 765
+    },
+    {
+        "Content": "共鸣4-4",
+        "Id": 766
+    },
+    {
+        "Content": "奇正",
+        "Id": 767
+    },
+    {
+        "Content": "<color=#ffffff>忌炎处于<color=#f4d582>共鸣解放·破阵状态</color>时，抗打断能力提升，重击伤害提升20%。\n<color=#f4d582>固有技能·垂天平澜</color>效果提升：<color=#f4d582>共鸣解放·破阵状态</color>结束后，队伍中所有角色的共鸣解放伤害额外提升20%，效果持续10秒。</color>",
+        "Id": 768
+    },
+    {
+        "Content": "共鸣5-1",
+        "Id": 769
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 770
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 771
+    },
+    {
+        "Content": "共鸣5-2",
+        "Id": 772
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 773
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 774
+    },
+    {
+        "Content": "共鸣5-3",
+        "Id": 775
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 776
+    },
+    {
+        "Content": "<color=#ffffff>气动伤害加成提升3%。</color>",
+        "Id": 777
+    },
+    {
+        "Content": "共鸣5-4",
+        "Id": 778
+    },
+    {
+        "Content": "明断",
+        "Id": 779
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>固有技能·蕴风集流</color>效果提升：攻击命中目标时，忌炎的气动伤害提升2%，效果持续8秒，可叠加15层。</color>",
+        "Id": 780
+    },
+    {
+        "Content": "共鸣6-1",
+        "Id": 781
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 782
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 783
+    },
+    {
+        "Content": "共鸣6-2",
+        "Id": 784
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 785
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 786
+    },
+    {
+        "Content": "共鸣6-3",
+        "Id": 787
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 788
+    },
+    {
+        "Content": "<color=#ffffff>气动伤害加成提升3%。</color>",
+        "Id": 789
+    },
+    {
+        "Content": "共鸣6-4",
+        "Id": 790
+    },
+    {
+        "Content": "移山",
+        "Id": 791
+    },
+    {
+        "Content": "<color=#ffffff>每次使用<color=#f4d582>重击</color>、<color=#f4d582>空中攻击</color>或<color=#f4d582>共鸣技能·枪扫风定</color>时，获得1层【锐意之势】，最多可叠加3层\n当忌炎拥有3层【锐意之势】，施放<color=#f4d582>共鸣解放·苍躣八荒·后动</color>会消耗所有【锐意之势】，使<color=#f4d582>共鸣解放·苍躣八荒·后动</color>的伤害提升100%。</color>",
+        "Id": 792
+    },
+    {
+        "Content": "共鸣1-1",
+        "Id": 793
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 794
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 795
+    },
+    {
+        "Content": "共鸣1-2",
+        "Id": 796
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 797
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 798
+    },
+    {
+        "Content": "共鸣1-3",
+        "Id": 799
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 800
+    },
+    {
+        "Content": "<color=#ffffff>气动伤害加成提升3%。</color>",
+        "Id": 801
+    },
+    {
+        "Content": "共鸣1-4",
+        "Id": 802
+    },
+    {
+        "Content": "恶作剧开场",
+        "Id": 803
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·雾化幻影</color>继承的生命值提升100%，秋水攻击被<color=#f4d582>共鸣技能·雾化幻影</color>嘲讽的目标时，攻击提升15%。</color>",
+        "Id": 804
+    },
+    {
+        "Content": "共鸣2-1",
+        "Id": 805
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 806
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 807
+    },
+    {
+        "Content": "共鸣2-2",
+        "Id": 808
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 809
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 810
+    },
+    {
+        "Content": "共鸣2-3",
+        "Id": 811
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 812
+    },
+    {
+        "Content": "<color=#ffffff>气动伤害加成提升3%。</color>",
+        "Id": 813
+    },
+    {
+        "Content": "共鸣2-4",
+        "Id": 814
+    },
+    {
+        "Content": "织雾首秀",
+        "Id": 815
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·移位戏法</color>的冷却时间减少4秒。</color>",
+        "Id": 816
+    },
+    {
+        "Content": "共鸣3-1",
+        "Id": 817
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 818
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 819
+    },
+    {
+        "Content": "共鸣3-2",
+        "Id": 820
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 821
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 822
+    },
+    {
+        "Content": "共鸣3-3",
+        "Id": 823
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 824
+    },
+    {
+        "Content": "<color=#ffffff>气动伤害加成提升3%。</color>",
+        "Id": 825
+    },
+    {
+        "Content": "共鸣3-4",
+        "Id": 826
+    },
+    {
+        "Content": "雾化转场",
+        "Id": 827
+    },
+    {
+        "Content": "<color=#ffffff>秋水的<color=#f4d582>普攻</color>和<color=#f4d582>空中攻击</color>穿过【迷雾漩涡】时，会转换为散射攻击。满蓄力攻击命中<color=#f4d582>共鸣技能·雾化幻影</color>时，子弹也会转化为散射攻击。</color>",
+        "Id": 828
+    },
+    {
+        "Content": "共鸣4-1",
+        "Id": 829
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 830
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 831
+    },
+    {
+        "Content": "共鸣4-2",
+        "Id": 832
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 833
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 834
+    },
+    {
+        "Content": "共鸣4-3",
+        "Id": 835
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 836
+    },
+    {
+        "Content": "<color=#ffffff>气动伤害加成提升3%。</color>",
+        "Id": 837
+    },
+    {
+        "Content": "共鸣4-4",
+        "Id": 838
+    },
+    {
+        "Content": "定格终幕的黑花",
+        "Id": 839
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·雾化弹</color>伤害加成提高30%，<color=#f4d582>共鸣回路·雾化状态</color>下秋水受到的伤害降低30%。</color>",
+        "Id": 840
+    },
+    {
+        "Content": "共鸣5-1",
+        "Id": 841
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 842
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 843
+    },
+    {
+        "Content": "共鸣5-2",
+        "Id": 844
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 845
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 846
+    },
+    {
+        "Content": "共鸣5-3",
+        "Id": 847
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 848
+    },
+    {
+        "Content": "<color=#ffffff>气动伤害加成提升3%。</color>",
+        "Id": 849
+    },
+    {
+        "Content": "共鸣5-4",
+        "Id": 850
+    },
+    {
+        "Content": "迷途者喝彩",
+        "Id": 851
+    },
+    {
+        "Content": "<color=#ffffff>处于<color=#f4d582>共鸣回路·雾化状态</color>时，秋水的气动伤害加成提升25%，效果持续6秒。</color>",
+        "Id": 852
+    },
+    {
+        "Content": "共鸣6-1",
+        "Id": 853
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 854
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 855
+    },
+    {
+        "Content": "共鸣6-2",
+        "Id": 856
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 857
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 858
+    },
+    {
+        "Content": "共鸣6-3",
+        "Id": 859
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 860
+    },
+    {
+        "Content": "<color=#ffffff>气动伤害加成提升3%。</color>",
+        "Id": 861
+    },
+    {
+        "Content": "共鸣6-4",
+        "Id": 862
+    },
+    {
+        "Content": "幕后引航计划",
+        "Id": 863
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣解放·雾里观花</color>的增伤效果额外提升10%，秋水的<color=#f4d582>蓄力攻击</color>穿过<color=#f4d582>共鸣解放·虚实之门</color>时，伤害额外提升50%。</color>",
+        "Id": 864
+    },
+    {
+        "Content": "共鸣1-1",
+        "Id": 865
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 866
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 867
+    },
+    {
+        "Content": "共鸣1-2",
+        "Id": 868
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 869
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 870
+    },
+    {
+        "Content": "共鸣1-3",
+        "Id": 871
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 872
+    },
+    {
+        "Content": "<color=#ffffff>解离伤害加成提升3%。</color>",
+        "Id": 873
+    },
+    {
+        "Content": "共鸣1-4",
+        "Id": 874
+    },
+    {
+        "Content": "test/纯洁无瑕的核种",
+        "Id": 875
+    },
+    {
+        "Content": "<color=#ffffff>test/每次造成伤害的时候，自身普通攻击跟蓄力攻击的攻速提升５％，最多叠加４层，持续５秒。每０.４秒触发１次。</color>",
+        "Id": 876
+    },
+    {
+        "Content": "共鸣2-1",
+        "Id": 877
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 878
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 879
+    },
+    {
+        "Content": "共鸣2-2",
+        "Id": 880
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 881
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 882
+    },
+    {
+        "Content": "共鸣2-3",
+        "Id": 883
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 884
+    },
+    {
+        "Content": "<color=#ffffff>解离伤害加成提升3%。</color>",
+        "Id": 885
+    },
+    {
+        "Content": "共鸣2-4",
+        "Id": 886
+    },
+    {
+        "Content": "test/沾染污秽的新芽",
+        "Id": 887
+    },
+    {
+        "Content": "<color=#ffffff>test/共鸣技能的使用次数额外增加1次，并且共鸣技能无视目标２０％防御。</color>",
+        "Id": 888
+    },
+    {
+        "Content": "共鸣3-1",
+        "Id": 889
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 890
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 891
+    },
+    {
+        "Content": "共鸣3-2",
+        "Id": 892
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 893
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 894
+    },
+    {
+        "Content": "共鸣3-3",
+        "Id": 895
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 896
+    },
+    {
+        "Content": "<color=#ffffff>解离伤害加成提升3%。</color>",
+        "Id": 897
+    },
+    {
+        "Content": "共鸣3-4",
+        "Id": 898
+    },
+    {
+        "Content": "test/被花吞噬的魔女",
+        "Id": 899
+    },
+    {
+        "Content": "<color=#ffffff>test/椿处于空中的时候，攻击力增加２０％。</color>",
+        "Id": 900
+    },
+    {
+        "Content": "共鸣4-1",
+        "Id": 901
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 902
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 903
+    },
+    {
+        "Content": "共鸣4-2",
+        "Id": 904
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 905
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 906
+    },
+    {
+        "Content": "共鸣4-3",
+        "Id": 907
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 908
+    },
+    {
+        "Content": "<color=#ffffff>解离伤害加成提升3%。</color>",
+        "Id": 909
+    },
+    {
+        "Content": "共鸣4-4",
+        "Id": 910
+    },
+    {
+        "Content": "test/无法抑制的污染",
+        "Id": 911
+    },
+    {
+        "Content": "<color=#ffffff>test/自身提供解离能量球触发反应后，下场队友５秒内的攻击力提高３０％。</color>",
+        "Id": 912
+    },
+    {
+        "Content": "共鸣5-1",
+        "Id": 913
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 914
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 915
+    },
+    {
+        "Content": "共鸣5-2",
+        "Id": 916
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 917
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 918
+    },
+    {
+        "Content": "共鸣5-3",
+        "Id": 919
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 920
+    },
+    {
+        "Content": "<color=#ffffff>解离伤害加成提升3%。</color>",
+        "Id": 921
+    },
+    {
+        "Content": "共鸣5-4",
+        "Id": 922
+    },
+    {
+        "Content": "test/予取予求的恶名",
+        "Id": 923
+    },
+    {
+        "Content": "<color=#ffffff>test/共鸣解放造成的伤害额外提升２５％，并且自身在使用连携技能出场前５秒内该效果提升至４０％</color>",
+        "Id": 924
+    },
+    {
+        "Content": "共鸣6-1",
+        "Id": 925
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 926
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 927
+    },
+    {
+        "Content": "共鸣6-2",
+        "Id": 928
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 929
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 930
+    },
+    {
+        "Content": "共鸣6-3",
+        "Id": 931
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 932
+    },
+    {
+        "Content": "<color=#ffffff>解离伤害加成提升3%。</color>",
+        "Id": 933
+    },
+    {
+        "Content": "共鸣6-4",
+        "Id": 934
+    },
+    {
+        "Content": "test/温和平等的注视",
+        "Id": 935
+    },
+    {
+        "Content": "<color=#ffffff>test/使用共鸣解放进入魔人状态后，重置共鸣技能的冷却时间，并且每一次的重击，都会重置共鸣技能的冷却时间。</color>",
+        "Id": 936
+    },
+    {
+        "Content": "共鸣1-1",
+        "Id": 937
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 938
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 939
+    },
+    {
+        "Content": "共鸣1-2",
+        "Id": 940
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 941
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 942
+    },
+    {
+        "Content": "共鸣1-3",
+        "Id": 943
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 944
+    },
+    {
+        "Content": "<color=#ffffff>导电伤害加成提升3%。</color>",
+        "Id": 945
+    },
+    {
+        "Content": "共鸣1-4",
+        "Id": 946
+    },
+    {
+        "Content": "test/共鸣1",
+        "Id": 947
+    },
+    {
+        "Content": "<color=#ffffff>test/卡卡罗qte出场时，自身获得10点共鸣解放充能（该效果每20秒触发1次）。</color>",
+        "Id": 948
+    },
+    {
+        "Content": "共鸣2-1",
+        "Id": 949
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 950
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 951
+    },
+    {
+        "Content": "共鸣2-2",
+        "Id": 952
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 953
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 954
+    },
+    {
+        "Content": "共鸣2-3",
+        "Id": 955
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 956
+    },
+    {
+        "Content": "<color=#ffffff>导电伤害加成提升3%。</color>",
+        "Id": 957
+    },
+    {
+        "Content": "共鸣2-4",
+        "Id": 958
+    },
+    {
+        "Content": "test/共鸣2",
+        "Id": 959
+    },
+    {
+        "Content": "<color=#ffffff>test/共鸣解放期间提升抗打断能力</color>",
+        "Id": 960
+    },
+    {
+        "Content": "共鸣3-1",
+        "Id": 961
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 962
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 963
+    },
+    {
+        "Content": "共鸣3-2",
+        "Id": 964
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 965
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 966
+    },
+    {
+        "Content": "共鸣3-3",
+        "Id": 967
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 968
+    },
+    {
+        "Content": "<color=#ffffff>导电伤害加成提升3%。</color>",
+        "Id": 969
+    },
+    {
+        "Content": "共鸣3-4",
+        "Id": 970
+    },
+    {
+        "Content": "test/共鸣3",
+        "Id": 971
+    },
+    {
+        "Content": "<color=#ffffff>test/卡卡罗的E影子对目标造成伤害时会降低目标雷属性抗性15%（持续12秒）</color>",
+        "Id": 972
+    },
+    {
+        "Content": "共鸣4-1",
+        "Id": 973
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 974
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 975
+    },
+    {
+        "Content": "共鸣4-2",
+        "Id": 976
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 977
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 978
+    },
+    {
+        "Content": "共鸣4-3",
+        "Id": 979
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 980
+    },
+    {
+        "Content": "<color=#ffffff>导电伤害加成提升3%。</color>",
+        "Id": 981
+    },
+    {
+        "Content": "共鸣4-4",
+        "Id": 982
+    },
+    {
+        "Content": "test/共鸣4",
+        "Id": 983
+    },
+    {
+        "Content": "<color=#ffffff>test/每用1次满蓄力重击自动恢复1点特殊能量</color>",
+        "Id": 984
+    },
+    {
+        "Content": "共鸣5-1",
+        "Id": 985
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 986
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 987
+    },
+    {
+        "Content": "共鸣5-2",
+        "Id": 988
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 989
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 990
+    },
+    {
+        "Content": "共鸣5-3",
+        "Id": 991
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 992
+    },
+    {
+        "Content": "<color=#ffffff>导电伤害加成提升3%。</color>",
+        "Id": 993
+    },
+    {
+        "Content": "共鸣5-4",
+        "Id": 994
+    },
+    {
+        "Content": "test/共鸣5",
+        "Id": 995
+    },
+    {
+        "Content": "<color=#ffffff>test/共鸣解放期间每次目押成功额外提升自身10%雷属性伤害，持续5秒</color>",
+        "Id": 996
+    },
+    {
+        "Content": "共鸣6-1",
+        "Id": 997
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 998
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 999
+    },
+    {
+        "Content": "共鸣6-2",
+        "Id": 1000
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1001
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 1002
+    },
+    {
+        "Content": "共鸣6-3",
+        "Id": 1003
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1004
+    },
+    {
+        "Content": "<color=#ffffff>导电伤害加成提升3%。</color>",
+        "Id": 1005
+    },
+    {
+        "Content": "共鸣6-4",
+        "Id": 1006
+    },
+    {
+        "Content": "test/共鸣6",
+        "Id": 1007
+    },
+    {
+        "Content": "<color=#ffffff>test/卡卡罗释放共鸣解放后，每造成1次伤害提升自身2%暴击伤害，最多叠加30层，持续到角色倒下或离场或共鸣解放结束。</color>",
+        "Id": 1008
+    },
+    {
+        "Content": "共鸣1-1",
+        "Id": 1009
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1010
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 1011
+    },
+    {
+        "Content": "共鸣1-2",
+        "Id": 1012
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1013
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 1014
+    },
+    {
+        "Content": "共鸣1-3",
+        "Id": 1015
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1016
+    },
+    {
+        "Content": "<color=#ffffff>导电伤害加成提升3%。</color>",
+        "Id": 1017
+    },
+    {
+        "Content": "共鸣1-4",
+        "Id": 1018
+    },
+    {
+        "Content": "独幕的愚戏",
+        "Id": 1019
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·掌中之物</color>可使用次数增加1次。</color>",
+        "Id": 1020
+    },
+    {
+        "Content": "共鸣2-1",
+        "Id": 1021
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1022
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 1023
+    },
+    {
+        "Content": "共鸣2-2",
+        "Id": 1024
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1025
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 1026
+    },
+    {
+        "Content": "共鸣2-3",
+        "Id": 1027
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1028
+    },
+    {
+        "Content": "<color=#ffffff>导电伤害加成提升3%。</color>",
+        "Id": 1029
+    },
+    {
+        "Content": "共鸣2-4",
+        "Id": 1030
+    },
+    {
+        "Content": "沉沦的俘虏",
+        "Id": 1031
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·掌中之物</color>导电伤害加成提升30%。</color>",
+        "Id": 1032
+    },
+    {
+        "Content": "共鸣3-1",
+        "Id": 1033
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1034
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 1035
+    },
+    {
+        "Content": "共鸣3-2",
+        "Id": 1036
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1037
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 1038
+    },
+    {
+        "Content": "共鸣3-3",
+        "Id": 1039
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1040
+    },
+    {
+        "Content": "<color=#ffffff>导电伤害加成提升3%。</color>",
+        "Id": 1041
+    },
+    {
+        "Content": "共鸣3-4",
+        "Id": 1042
+    },
+    {
+        "Content": "弱者的体面",
+        "Id": 1043
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣解放·哀求于我</color>期间，<color=#f4d582>共鸣解放·审判银丝</color>每次命中目标时，会为1个目标添加1层【罚印】，每1秒可触发1次。</color>",
+        "Id": 1044
+    },
+    {
+        "Content": "共鸣4-1",
+        "Id": 1045
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1046
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 1047
+    },
+    {
+        "Content": "共鸣4-2",
+        "Id": 1048
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1049
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 1050
+    },
+    {
+        "Content": "共鸣4-3",
+        "Id": 1051
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1052
+    },
+    {
+        "Content": "<color=#ffffff>导电伤害加成提升3%。</color>",
+        "Id": 1053
+    },
+    {
+        "Content": "共鸣4-4",
+        "Id": 1054
+    },
+    {
+        "Content": "无情的银线",
+        "Id": 1055
+    },
+    {
+        "Content": "<color=#ffffff>小家伙的协同攻击伤害提升75%。</color>",
+        "Id": 1056
+    },
+    {
+        "Content": "共鸣5-1",
+        "Id": 1057
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1058
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 1059
+    },
+    {
+        "Content": "共鸣5-2",
+        "Id": 1060
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1061
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 1062
+    },
+    {
+        "Content": "共鸣5-3",
+        "Id": 1063
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1064
+    },
+    {
+        "Content": "<color=#ffffff>导电伤害加成提升3%。</color>",
+        "Id": 1065
+    },
+    {
+        "Content": "共鸣5-4",
+        "Id": 1066
+    },
+    {
+        "Content": "独断的判罚",
+        "Id": 1067
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>重击</color>命中目标时，若目标带有【罚印】，则此次重击额外伤害的导电伤害加成提高100%。</color>",
+        "Id": 1068
+    },
+    {
+        "Content": "共鸣6-1",
+        "Id": 1069
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1070
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 1071
+    },
+    {
+        "Content": "共鸣6-2",
+        "Id": 1072
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1073
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 1074
+    },
+    {
+        "Content": "共鸣6-3",
+        "Id": 1075
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1076
+    },
+    {
+        "Content": "<color=#ffffff>导电伤害加成提升3%。</color>",
+        "Id": 1077
+    },
+    {
+        "Content": "共鸣6-4",
+        "Id": 1078
+    },
+    {
+        "Content": "微末的仁慈",
+        "Id": 1079
+    },
+    {
+        "Content": "<color=#ffffff>目标携带【罚印】时，导电抗性降低20%，失去【罚印】后该效果仍会持续生效8秒。</color>",
+        "Id": 1080
+    },
+    {
+        "Content": "共鸣1-1",
+        "Id": 1081
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1082
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 1083
+    },
+    {
+        "Content": "共鸣1-2",
+        "Id": 1084
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1085
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 1086
+    },
+    {
+        "Content": "共鸣1-3",
+        "Id": 1087
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1088
+    },
+    {
+        "Content": "<color=#ffffff>防御提升3.8%。</color>",
+        "Id": 1089
+    },
+    {
+        "Content": "共鸣1-4",
+        "Id": 1090
+    },
+    {
+        "Content": "沽茶之源",
+        "Id": 1091
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·枯夜之楔</color>的协同攻击命中目标时，基于渊武防御力的15%，额外提升伤害。</color>",
+        "Id": 1092
+    },
+    {
+        "Content": "共鸣2-1",
+        "Id": 1093
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1094
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 1095
+    },
+    {
+        "Content": "共鸣2-2",
+        "Id": 1096
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1097
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 1098
+    },
+    {
+        "Content": "共鸣2-3",
+        "Id": 1099
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1100
+    },
+    {
+        "Content": "<color=#ffffff>防御提升3.8%。</color>",
+        "Id": 1101
+    },
+    {
+        "Content": "共鸣2-4",
+        "Id": 1102
+    },
+    {
+        "Content": "赤子之具",
+        "Id": 1103
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·枯夜之楔</color>的范围扩大，攻击频率提升，从2.5秒1次变为1.5秒1次。</color>",
+        "Id": 1104
+    },
+    {
+        "Content": "共鸣3-1",
+        "Id": 1105
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1106
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 1107
+    },
+    {
+        "Content": "共鸣3-2",
+        "Id": 1108
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1109
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 1110
+    },
+    {
+        "Content": "共鸣3-3",
+        "Id": 1111
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1112
+    },
+    {
+        "Content": "<color=#ffffff>防御提升3.8%。</color>",
+        "Id": 1113
+    },
+    {
+        "Content": "共鸣3-4",
+        "Id": 1114
+    },
+    {
+        "Content": "焙火之造",
+        "Id": 1115
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣解放·寂土重明</color>命中目标时，若渊武生命值高于50%，则基于渊武防御力的150%获得护盾，持续12秒。</color>",
+        "Id": 1116
+    },
+    {
+        "Content": "共鸣4-1",
+        "Id": 1117
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1118
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 1119
+    },
+    {
+        "Content": "共鸣4-2",
+        "Id": 1120
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1121
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 1122
+    },
+    {
+        "Content": "共鸣4-3",
+        "Id": 1123
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1124
+    },
+    {
+        "Content": "<color=#ffffff>防御提升3.8%。</color>",
+        "Id": 1125
+    },
+    {
+        "Content": "共鸣4-4",
+        "Id": 1126
+    },
+    {
+        "Content": "沥难之器",
+        "Id": 1127
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣解放·寂土重明</color>命中目标时，目标身上每具有1层<color=#f4d582>共鸣回路·雷痕</color>，<color=#f4d582>共鸣解放·寂土重明</color>伤害提升20%。</color>",
+        "Id": 1128
+    },
+    {
+        "Content": "共鸣5-1",
+        "Id": 1129
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1130
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 1131
+    },
+    {
+        "Content": "共鸣5-2",
+        "Id": 1132
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1133
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 1134
+    },
+    {
+        "Content": "共鸣5-3",
+        "Id": 1135
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1136
+    },
+    {
+        "Content": "<color=#ffffff>防御提升3.8%。</color>",
+        "Id": 1137
+    },
+    {
+        "Content": "共鸣5-4",
+        "Id": 1138
+    },
+    {
+        "Content": "焚心之煮",
+        "Id": 1139
+    },
+    {
+        "Content": "<color=#ffffff><color=#f4d582>共鸣技能·万壑雷</color>命中目标时，会将目标的<color=#f4d582>共鸣回路·雷痕</color>转换为<color=#f4d582>共鸣回路·憾雷之痕</color>。</color>",
+        "Id": 1140
+    },
+    {
+        "Content": "共鸣6-1",
+        "Id": 1141
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1142
+    },
+    {
+        "Content": "<color=#ffffff>攻击提升3%。</color>",
+        "Id": 1143
+    },
+    {
+        "Content": "共鸣6-2",
+        "Id": 1144
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1145
+    },
+    {
+        "Content": "<color=#ffffff>生命提升3%。</color>",
+        "Id": 1146
+    },
+    {
+        "Content": "共鸣6-3",
+        "Id": 1147
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1148
+    },
+    {
+        "Content": "<color=#ffffff>防御提升3.8%。</color>",
+        "Id": 1149
+    },
+    {
+        "Content": "共鸣6-4",
+        "Id": 1150
+    },
+    {
+        "Content": "荡忧之饮",
+        "Id": 1151
+    },
+    {
+        "Content": "<color=#ffffff>队伍中登场角色处于<color=#f4d582>共鸣技能·无光雷区</color>之内时，暴击率提升10%。</color>",
+        "Id": 1152
+    },
+    {
+        "Content": "共鸣1-1",
+        "Id": 1153
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1154
+    },
+    {
+        "Content": "test/<color=#ffffff>攻击提升3%。</color>",
+        "Id": 1155
+    },
+    {
+        "Content": "共鸣1-2",
+        "Id": 1156
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1157
+    },
+    {
+        "Content": "test/<color=#ffffff>生命提升3%。</color>",
+        "Id": 1158
+    },
+    {
+        "Content": "共鸣1-3",
+        "Id": 1159
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1160
+    },
+    {
+        "Content": "test/<color=#ffffff>防御提升3.8%。</color>",
+        "Id": 1161
+    },
+    {
+        "Content": "共鸣1-4",
+        "Id": 1162
+    },
+    {
+        "Content": "test/共鸣1",
+        "Id": 1163
+    },
+    {
+        "Content": "test/阿呜qte、qte一段目押、qte二段目押命中敌人，分别获得各5点共鸣解放能量。",
+        "Id": 1164
+    },
+    {
+        "Content": "共鸣2-1",
+        "Id": 1165
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1166
+    },
+    {
+        "Content": "test/<color=#ffffff>攻击提升3%。</color>",
+        "Id": 1167
+    },
+    {
+        "Content": "共鸣2-2",
+        "Id": 1168
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1169
+    },
+    {
+        "Content": "test/<color=#ffffff>生命提升3%。</color>",
+        "Id": 1170
+    },
+    {
+        "Content": "共鸣2-3",
+        "Id": 1171
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1172
+    },
+    {
+        "Content": "test/<color=#ffffff>防御提升3.8%。</color>",
+        "Id": 1173
+    },
+    {
+        "Content": "共鸣2-4",
+        "Id": 1174
+    },
+    {
+        "Content": "test/共鸣2",
+        "Id": 1175
+    },
+    {
+        "Content": "test/进入舞狮状态时，若满特殊能量，则自身获得15%冷凝伤害加成提升，持续12秒。",
+        "Id": 1176
+    },
+    {
+        "Content": "共鸣3-1",
+        "Id": 1177
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1178
+    },
+    {
+        "Content": "test/<color=#ffffff>攻击提升3%。</color>",
+        "Id": 1179
+    },
+    {
+        "Content": "共鸣3-2",
+        "Id": 1180
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1181
+    },
+    {
+        "Content": "test/<color=#ffffff>生命提升3%。</color>",
+        "Id": 1182
+    },
+    {
+        "Content": "共鸣3-3",
+        "Id": 1183
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1184
+    },
+    {
+        "Content": "test/<color=#ffffff>防御提升3.8%。</color>",
+        "Id": 1185
+    },
+    {
+        "Content": "共鸣3-4",
+        "Id": 1186
+    },
+    {
+        "Content": "test/共鸣3",
+        "Id": 1187
+    },
+    {
+        "Content": "test/下落攻击消耗体力减少50%，伤害提升50%。",
+        "Id": 1188
+    },
+    {
+        "Content": "共鸣4-1",
+        "Id": 1189
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1190
+    },
+    {
+        "Content": "test/<color=#ffffff>攻击提升3%。</color>",
+        "Id": 1191
+    },
+    {
+        "Content": "共鸣4-2",
+        "Id": 1192
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1193
+    },
+    {
+        "Content": "test/<color=#ffffff>生命提升3%。</color>",
+        "Id": 1194
+    },
+    {
+        "Content": "共鸣4-3",
+        "Id": 1195
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1196
+    },
+    {
+        "Content": "test/<color=#ffffff>防御提升3.8%。</color>",
+        "Id": 1197
+    },
+    {
+        "Content": "共鸣4-4",
+        "Id": 1198
+    },
+    {
+        "Content": "test/共鸣4",
+        "Id": 1199
+    },
+    {
+        "Content": "test/阿呜参与的协奏反应，登场角色获得E技能伤害提升20%。",
+        "Id": 1200
+    },
+    {
+        "Content": "共鸣5-1",
+        "Id": 1201
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1202
+    },
+    {
+        "Content": "test/<color=#ffffff>攻击提升3%。</color>",
+        "Id": 1203
+    },
+    {
+        "Content": "共鸣5-2",
+        "Id": 1204
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1205
+    },
+    {
+        "Content": "test/<color=#ffffff>生命提升3%。</color>",
+        "Id": 1206
+    },
+    {
+        "Content": "共鸣5-3",
+        "Id": 1207
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1208
+    },
+    {
+        "Content": "test/<color=#ffffff>防御提升3.8%。</color>",
+        "Id": 1209
+    },
+    {
+        "Content": "共鸣5-4",
+        "Id": 1210
+    },
+    {
+        "Content": "test/共鸣5",
+        "Id": 1211
+    },
+    {
+        "Content": "test/阿呜释放大招时，每有1点特殊能量，增加大招伤害10%。",
+        "Id": 1212
+    },
+    {
+        "Content": "共鸣6-1",
+        "Id": 1213
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1214
+    },
+    {
+        "Content": "test/<color=#ffffff>攻击提升3%。</color>",
+        "Id": 1215
+    },
+    {
+        "Content": "共鸣6-2",
+        "Id": 1216
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1217
+    },
+    {
+        "Content": "test/<color=#ffffff>生命提升3%。</color>",
+        "Id": 1218
+    },
+    {
+        "Content": "共鸣6-3",
+        "Id": 1219
+    },
+    {
+        "Content": "共鸣位点",
+        "Id": 1220
+    },
+    {
+        "Content": "test/<color=#ffffff>防御提升3.8%。</color>",
+        "Id": 1221
+    },
+    {
+        "Content": "共鸣6-4",
+        "Id": 1222
+    },
+    {
+        "Content": "test/共鸣6",
+        "Id": 1223
+    },
+    {
+        "Content": "test/【狮子奋迅】持续期间，阿呜在舞狮状态下的梅花桩不会消失，每存在一个梅花桩，阿呜自身获得攻速提升2%（可叠加，持续至【狮子奋迅】持续时间结束），大招状态消失时，所有梅花桩依次发生爆炸，造成冷凝伤害并消失。",
+        "Id": 1224
+    }
+]
