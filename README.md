@@ -1,2 +1,2 @@
 # WWTextmapCN
-1.0.0 update
+1.1.50 update
